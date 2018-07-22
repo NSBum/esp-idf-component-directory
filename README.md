@@ -25,5 +25,9 @@ My [fork](https://github.com/NSBum/esp-idf-lib) of the ESP-IDF component library
 | **pcf8591**    | Driver for 8-bit ADC and an 8-bit DAC PCF8591                           | BSD     | Yes
 | **tsl2561**    | Driver for light-to-digital converter TSL2561                           | BSD     | Yes
 | **max7219**    | Driver for 8-Digit LED display drivers, MAX7219/MAX7221                 | BSD     | Yes
+| **tm1637**     | [Driver for TM1637 7-segment displays](https://goo.gl/rr1S1a)           | MIT     | Unknown
+| **si7021**     | [Driver for SI7021 temp/humidity sensor](https://goo.gl/GfpSqw)         | MIT     | Unknown
+| **owb**        | [Driver for 1-Wire bus esp32-owb](https://goo.gl/MTWQwL)                | MIT     | Unknown
+| **ds18b20**    | [Driver for DS18B20 for above esp-owb](https://goo.gl/eBRssD)           | MIT     | Unknown
 
 ⚠️ Work in progress
