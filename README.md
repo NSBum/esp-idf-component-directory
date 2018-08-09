@@ -2,7 +2,8 @@ The [ESP32](http://esp32.net/) is an excellent little SoC device that I use freq
 
 ## Components
 
-My [fork](https://github.com/NSBum/esp-idf-lib) of the ESP-IDF component library.
+My [fork](https://github.com/NSBum/esp-idf-lib) of the [ESP-IDF Components library](https://github.com/UncleRus/esp-idf-lib). I have extended that table to function as a directory of not only the contents of that library but of some of my original components and those of others.
+
 
 | Component      | Description                                                             | License | Thread safety
 |----------------|-------------------------------------------------------------------------|---------|---------------
